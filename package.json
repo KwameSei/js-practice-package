@@ -1,0 +1,19 @@
+{
+  "name": "js-practice-package",
+  "version": "1.0.0",
+  "description": "My maiden package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KwameSei/js-practice-package.git"
+  },
+  "author": "Nathaniel Osei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KwameSei/js-practice-package/issues"
+  },
+  "homepage": "https://github.com/KwameSei/js-practice-package#readme"
+}
